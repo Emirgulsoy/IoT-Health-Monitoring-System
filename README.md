@@ -79,3 +79,8 @@ Implemented an HTTP/JSON-based communication layer with automatic reconnection h
 ## Project Ownership
 
 This project was fully designed, implemented, debugged, and validated independently as part of an undergraduate graduation project at Istanbul Technical University (ITU).
+
+## Project Context
+This project was developed as an undergraduate graduation by Emir Gülsoy at Istanbul Technical University (ITU).
+The focus was not only implementation but also understanding real-world limitations of low-cost sensors.
+
